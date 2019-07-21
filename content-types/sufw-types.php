@@ -146,7 +146,7 @@ function sufw_news_and_media() {
 	$labels = array(
 		'name'                  => _x( 'Articles From News And Media', 'Post Type General Name', 'text_domain' ),
 		'singular_name'         => _x( 'In The News', 'Post Type Singular Name', 'text_domain' ),
-		'menu_name'             => __( 'Post Types', 'text_domain' ),
+		'menu_name'             => __( 'In The News', 'text_domain' ),
 		'name_admin_bar'        => __( 'Post Type', 'text_domain' ),
 		'archives'              => __( 'Item Archives', 'text_domain' ),
 		'attributes'            => __( 'Item Attributes', 'text_domain' ),
